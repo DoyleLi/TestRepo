@@ -1,4 +1,5 @@
 config:
+  dockerfile: .woloxci/Dockerfile
   project_name: some-rails-project
 
 steps:
