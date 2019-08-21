@@ -1,0 +1,9 @@
+config:
+  project_name: some-rails-project
+
+steps:
+  analysis:
+    - echo "DONE"
+
+
+timeout: 600
